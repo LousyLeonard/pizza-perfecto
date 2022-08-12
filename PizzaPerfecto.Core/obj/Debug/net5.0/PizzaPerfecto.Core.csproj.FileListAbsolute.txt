@@ -1,0 +1,12 @@
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\bin\Debug\net5.0\PizzaPerfecto.Core.deps.json
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\bin\Debug\net5.0\PizzaPerfecto.Core.dll
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\bin\Debug\net5.0\ref\PizzaPerfecto.Core.dll
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\bin\Debug\net5.0\PizzaPerfecto.Core.pdb
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.csproj.AssemblyReference.cache
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.AssemblyInfoInputs.cache
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.AssemblyInfo.cs
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.csproj.CoreCompileInputs.cache
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.dll
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\ref\PizzaPerfecto.Core.dll
+C:\Users\lawre\source\Ucas\PizzaPerfecto\PizzaPerfecto.Core\obj\Debug\net5.0\PizzaPerfecto.Core.pdb
