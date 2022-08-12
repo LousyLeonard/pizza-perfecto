@@ -1,5 +1,5 @@
 # Pizza Factory
-C# Console Solution to the Pizza Factory.
+C# Console Solution to the Pizza Factory, see the [full spec](https://github.com/LousyLeonard/pizza-perfecto/blob/master/PizzaPerfectoSpec.pdf).
 
 ### Quick Start
 Open PizzaPerfecto.sln in Visual Studio.
